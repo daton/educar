@@ -1,2 +1,2 @@
 # educar
-Sitio Oficial de EducAR
+Videojuegos para una mejor educacion
